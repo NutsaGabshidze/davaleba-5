@@ -6,7 +6,7 @@ header{
 nav{
     display: inline-block;    
 }
-img{
+.logo{
     vertical-align: middle;
     margin-right: 229px;
     }
@@ -19,3 +19,33 @@ li{
     font-size: 32px;
 }
  /* დამთავრდა header */
+
+ section{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 110px 61px 154px 69px;
+    background-color: #1F6519;
+ }
+ img{
+    display: inline-block;
+    margin-right: 92px;
+ }
+ div{
+    display: inline-block;
+    vertical-align: top;
+color: #FFFFFF;
+font-weight: 400px;
+ }
+ h3{
+    font-size: 36px;
+    font-family: 'Nerko One', cursive;
+    margin-left: 140px;
+ }
+ p{
+    width: 448px;
+    height: 480px;
+    margin-top: 35px;
+    font-family: 'PT Serif', serif;
+    font-size: 32px;
+ }
+ /* დამთავრდა section */
