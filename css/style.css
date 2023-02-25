@@ -1,0 +1,21 @@
+header{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 40.89px 0  100.26px 69px;
+}
+nav{
+    display: inline-block;    
+}
+img{
+    vertical-align: middle;
+    margin-right: 229px;
+    }
+li{
+    display: inline-block;
+    margin-left: 83px ;
+    color: #0F5009;
+    font-family: 'Nerko One', cursive;
+    font-weight: 400;
+    font-size: 32px;
+}
+ /* დამთავრდა header */
